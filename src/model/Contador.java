@@ -29,7 +29,7 @@ public class Contador {
 		
 		//validar se parametroUm é MAIOR que parametroDois e lançar a exceção
 		if(parametroUm > parametroDois) { 
-			throw new ParametrosInvalidosException("O primeiro parmetro deve ser maior que o segundo");
+			throw new ParametrosInvalidosException("O primeiro parâmetro deve ser maior que o segundo");
 		}
 		
 		
